@@ -40,7 +40,7 @@ Add the AXParallelImageView to your layout:
     app:duration="800"/>
 ```
 
-That's all you need! If you don't want the AXPowerView to automatically start animating, omit the app:autoStart option and start it manually yourself:
+That's all you need! If you don't want the AXParallelImageView to automatically start animating, omit the app:autoStart option and start it manually yourself:
 
 ```java
 AXParallelImageView view = findViewById(R.id.AXParallelImageViewID);
