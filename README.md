@@ -95,7 +95,7 @@ view.start();
 | setParallelLineImage(int) | Sets the photo behind the lines |
 | setGrayscaleParallelLineImage(Bitmap) | Sets the photo behind the lines with grayscale effect |
 | setGrayscaleParallelLineImage(int) | Sets the photo behind the lines with grayscale effect |
-| getParallelLineImage(Bitmap) | Returns the photo behind the lines |
+| getParallelLineImage() | Returns the photo behind the lines |
 
 ## Author 
 - **Amir Hossein Aghajari**
