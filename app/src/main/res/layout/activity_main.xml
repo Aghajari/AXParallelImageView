@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.aghajari.parallelimageview.AXParallelImageView
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/image1"
+        app:image="@drawable/image2"
+        app:direction="TOP_LEFT"
+        app:maxStroke="40dp"
+        app:minStroke="2dp"
+        app:maxLinesCount="8"
+        app:strokePeriod="4"
+        app:duration="800"/>
+
+</FrameLayout>

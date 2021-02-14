@@ -1,0 +1,7 @@
+siteUrl = https://github.com/Aghajari/AXParallelImageView
+gitUrl = https://github.com/Aghajari/AXParallelImageView.git
+version = 1.0.0
+groupId = com.aghajari.parallelimageview
+licenses = ['Apache-2.0']
+id = AXParallelImageView
+name = AXParallelImageView

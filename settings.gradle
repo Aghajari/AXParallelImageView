@@ -1,0 +1,3 @@
+include ':AXParallelImageView'
+include ':app'
+rootProject.name = "ParallelImageView-App"
